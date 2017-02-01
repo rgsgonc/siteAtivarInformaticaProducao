@@ -14,7 +14,7 @@ require_once("PHPMailerAutoload.php");
 
 //  Informa a senha do email que tu vai usar como destino 
 define('GUSER', 'contato@ativarinformatica.com.br');
-define('GPWD', 'Rrg018nm*');
+define('GPWD', '******');
 
 function smtpmailer($para, $de, $nomeDestinatario, $assunto, $corpo) {
 	global $error;
