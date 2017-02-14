@@ -10,10 +10,10 @@
             <a href="index.php"><img src="img/logo.png" alt="Ativar Informática"></a>
         </div>
 
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <!--<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav navbar-right">
-				<li><a href="#tf-home" class="scroll">Home</a></li>
-                <li><a href="#tf-services" class="scroll">Serviços</a></li>
+				<li><a href="index.php" class="scroll">Home</a></li>
+                <li><a href="index.php/tf-services" class="scroll">Serviços</a></li>
                 <li><a href="#tf-about" class="scroll">Sobre</a></li>
                 <li><a href="#tf-works" class="scroll">Trabalhos</a></li>
                 <li><a href="#tf-process" class="scroll">Atendimento</a></li>
@@ -21,6 +21,6 @@
                 <li><a href="#tf-blog" class="scroll">Blog</a></li>
                 <li><a href="#tf-contact" class="scroll">Contato</a></li>
             </ul>
-        </div>
+        </div>-->
     </div>
 </nav>

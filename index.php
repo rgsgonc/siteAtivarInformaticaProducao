@@ -188,7 +188,7 @@
 							<div class="col-xs-6 col-sm-4 col-md-2 col-md-2 col-md-offset-1 facts">
 								<div class="count-box">
 									<i class="fa fa-thumbs-up"></i>
-									<h4 class="count">585</h4>
+									<h4 class="count">584</h4>
 									<p class="small">Nossas curtidas</p>
 									<p class="small">* Atualizado Semanalmente</p>
 								</div>
@@ -197,7 +197,7 @@
 							<div class="col-xs-6 col-sm-4 col-md-2 facts">
 								<div class="count-box">
 								  <i class="fa fa-instagram"></i>
-								  <h4 class="count">1116</h4>
+								  <h4 class="count">1093</h4>
 								  <p class="small">Nossos seguidores</p>
 								  <p class="small">* Atualizado Semanalmente</p>
 								</div>
@@ -215,7 +215,7 @@
 							<div class="col-xs-6 col-sm-4 col-md-2 facts">
 								<div class="count-box">
 								  <i class="fa fa-cogs"></i>
-								  <h4 class="count">138</h4>
+								  <h4 class="count">152</h4>
 								  <p class="small">Máquinas formatadas</p>
 								  <p class="small">* Atualizado Semanalmente</p>
 								</div>
@@ -525,6 +525,99 @@
         </div>
     </div>
 	<!-- ========================== Sessão de preços ========================== -->
+	
+	<!--  Blog Section
+    ================================================== -->
+    <div id="tf-blog">
+        <div class="container"> <!-- container -->
+            <div class="section-header">
+                <h2>NOSSO <span class="highlight"><strong>Blog</strong></span></h2>
+                <h5><em>Configura as novidades do nosso blog</em></h5>
+                <div class="fancy"><span><img src="img/favicon.ico" alt="..."></span></div>
+            </div>
+        </div>
+
+        <div id="blog-post" class="gray-bg"> <!-- fullwidth gray background -->
+            <div class="container"><!-- container -->
+
+                <div class="row"> <!-- row -->
+                    <div class="col-md-6"> <!-- Left content col 6 -->
+
+                        <div class="post-wrap"> <!-- Post Wrapper -->
+                            <div class="media post"> <!-- post wrap -->
+                                <div class="media-left"> 
+                                    <a href="#"> <!-- link to your post single page -->
+                                      <img class="media-object" src="img/blog/icone-post-velocidade-internet-empresa.jpg" alt="..."> <!-- Your Post Image -->
+                                    </a>
+                                </div>
+                                <div class="media-body">
+                                    <p class="small">15/02/2017</p>
+                                    <a href="#">
+                                        <h5 class="media-heading"><strong>3 PASSOS PARA MELHORAR A VELOCIDADE DA INTERNET EM SUA EMPRESA</strong></h5>
+                                    </a>
+                                    <p>Em todos os aspectos da vida humana as tecnologias têm se tornado cada vez mais presentes o qual vem impactando e afetando a 
+									cultura, a sociedade, o modo como interagimos e vivemos com o mundo. Veja nesse artigo 3 passos para..</p>
+                                </div>
+                            </div>
+                            
+                            <div class="post-meta"> 
+                                <ul class="list-inline metas pull-left"> 
+                                    <!--<li><a href="#">by Rudhi Design</a></li> 
+                                    <li><a href="#">20 Comments</a></li> -->
+                                    <li><a href="post-velocidade-internet-empresa.php">Continuar lendo</a></li> 
+                                </ul>
+                                <ul class="list-inline meta-detail pull-right"> 
+                                    <!--<li><a href="#"><i class="fa fa-heart"></i></a> 50</li>-->
+                                    <li><i class="fa fa-eye"></i> 003</li> 
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!--<div class="post-wrap"> 
+                            <div class="media post"> 
+                                <div class="media-left"> 
+                                    <a href="#"> 
+                                      <img class="media-object" src="http://placehold.it/120x150" alt="..."> 
+                                    </a>
+                                </div>
+                                <div class="media-body">
+                                    <p class="small">January 14, 2015</p>
+                                    <a href="#">
+                                        <h5 class="media-heading"><strong>Vel donec et scelerisque vestibulum. Condimentum aliquam, mollit magna velit nec</strong></h5>
+                                    </a>
+                                    <p>Tempor vestibulum turpis id ligula mi mattis. Eget arcu vitae mauris amet odio. Diam nibh diam, quam elit, libero nostra ut. Pellentesque vehicula. Eget sed, dapibus </p>
+                                </div>
+                            </div>
+                            
+                            <div class="post-meta">
+                                <ul class="list-inline metas pull-left"> 
+                                    <li><a href="#">by Rudhi Design</a></li> 
+                                    <li><a href="#">20 Comments</a></li>
+                                    <li><a href="#">Read More</a></li> 
+                                </ul>
+                                <ul class="list-inline meta-detail pull-right"> 
+                                    <li><a href="#"><i class="fa fa-heart"></i></a> 50</li> 
+                                    <li><i class="fa fa-eye"></i> 110</li> 
+                                </ul>
+                            </div> 
+                        </div>-->
+                    </div> <!-- end Left content col 6 -->
+
+                    <div class="col-md-6"> <!-- right content col 6 -->
+
+                        
+
+                       
+
+                    </div><!-- end right content col 6 -->
+                </div><!-- end row -->
+
+                <div class="text-center">
+                    <!--<a href="#" class="btn btn-primary tf-btn color">Load More</a>-->
+                </div>                
+            </div><!-- end container -->
+        </div> <!-- end fullwidth gray background -->
+    </div>
 
     <!-- ========================== Sessão de contato ========================== -->
     <div id="tf-contact">
